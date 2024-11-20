@@ -1,0 +1,1 @@
+在需要上传的文件夹右键 git bash here， 输入git init，文件夹中出现git init
